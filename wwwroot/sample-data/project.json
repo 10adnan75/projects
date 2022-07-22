@@ -2,7 +2,7 @@
   {
     "index": 1,
     "title": "first project",
-    "view": "<a href="https://github.com/10adnan75/CSharpDotNet/edit/main/wwwroot/sample-data/project.json" target="_blank">Click here</a>",
+    "view": "<a href='https://github.com/10adnan75/CSharpDotNet/edit/main/wwwroot/sample-data/project.json' target='_blank'>Click here</a>",
     "description": "This is my first project.",
     "date": "2018-05-06"
   },
