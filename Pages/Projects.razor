@@ -20,6 +20,7 @@ else
                 <th>Title</th>
                 <th>View</th>
                 <th>Description</th>
+                <th>Date</th>
             </tr>
         </thead>
         <tbody>
@@ -30,6 +31,7 @@ else
                     <td>@project.Title</td>
                     <td>@project.View</td>
                     <td>@project.Description</td>
+                    <td>@forecast.Date.ToShortDateString()</td>
                 </tr>
             }
         </tbody>
@@ -53,5 +55,7 @@ else
         public string? Description { get; set; }
 
         public string? View { get; set; }
+        
+        public DateTime Date { get; set; }
     }
 }
