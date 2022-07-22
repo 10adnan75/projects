@@ -1,0 +1,61 @@
+@page "/myprojects"
+@inject HttpClient Http
+
+<PageTitle>My Projects</PageTitle>
+
+<h1>Projects by 10adnan75</h1>
+
+<p>Author: Adnan Shaikh</p>
+
+@if (myprojects == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Index</th>
+                <th>Title</th>
+                <th>Link</th>
+                <th>Description</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var project in myprojects)
+            {
+                <tr>
+                    <td>@project.Index</td>
+                    <td>@project.Title</td>
+                    <td><a href="@project.Link" target='_blank'>Click here</a></td>
+                    <td>@project.Description</td>
+                    <td>@project.Date.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Project[]? myprojects;
+
+    protected override async Task OnInitializedAsync()
+    {
+        myprojects = await Http.GetFromJsonAsync<Project[]>("sample-data/project.json");
+    }
+
+    public class Project
+    {
+        public int Index { get; set; }
+
+        public string? Title { get; set; }
+
+        public string? Description { get; set; }
+
+        public string? Link { get; set; }
+        
+        public DateTime Date { get; set; }
+    }
+}
