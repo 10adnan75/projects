@@ -2,11 +2,12 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "Test",
+  "entryAssembly": "CSharpDotNet",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
     "assembly": {
+      "CSharpDotNet.dll": "sha256-7ufBKP9PxHMJPv58pbi18Zt+VzZSGJJlkfujNZMdsiY=",
       "Microsoft.AspNetCore.Components.dll": "sha256-akphxmJLHT1BVk+0QfPRrRvEce1uh1lxCBUMdEg5A3c=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-PdYKNU3JFUSCwZkUC2EvjucmTjwE3xrGoa+SvpFmvWs=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-\/Dy2ObLVYzJ6Xlan\/StjJDmeXXNbucbohR2dQMoH3Zo=",
@@ -34,8 +35,7 @@
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-7\/+WbgL\/5vxkD9YDf\/GxlzydOhe0VXY0ljzLewYRAe0=",
       "System.Runtime.dll": "sha256-hC7viUNWd\/xr7Ea5q3h1z43r1G6DzUDS5mQMllZ7p\/o=",
       "System.Text.Encodings.Web.dll": "sha256-KG0o1aa3RlYVwiLWu9TKy6cfjk+\/xF6LZPUYL7ElRb8=",
-      "System.Text.Json.dll": "sha256-zE2Gs\/h065yBCI6wmlItV2Wne0rtkYKP1Sl+7KjDRcs=",
-      "Test.dll": "sha256-cAPrWZeXYA7Afd\/f1\/lVoXsB8EpgOFbwTrOjbAPo+qg="
+      "System.Text.Json.dll": "sha256-zE2Gs\/h065yBCI6wmlItV2Wne0rtkYKP1Sl+7KjDRcs="
     },
     "extensions": null,
     "lazyAssembly": null,
