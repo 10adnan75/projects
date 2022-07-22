@@ -20,10 +20,10 @@ jobs:
         dotnet-version: 6.0.301
 
     - name: Publish .NET Core Project
-      run: dotnet publish CSharpDotNet.csproj -c Release -o release --nologo
+      run: dotnet publish Projects.csproj -c Release -o release --nologo
     
-    - name: Change base-tag in index.html from / to CSharpDotNet
-      run: sed -i 's/<base href="\/" \/>/<base href="\/CSharpDotNet\/" \/>/g' release/wwwroot/index.html
+    - name: Change base-tag in index.html from / to Projects
+      run: sed -i 's/<base href="\/" \/>/<base href="\/Projects\/" \/>/g' release/wwwroot/index.html
     
     - name: copy index.html to 404.html
       run: cp release/wwwroot/index.html release/wwwroot/404.html
