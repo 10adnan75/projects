@@ -18,7 +18,7 @@ else
             <tr>
                 <th>Index</th>
                 <th>Title</th>
-                <th>View</th>
+                <th>Link</th>
                 <th>Description</th>
                 <th>Date</th>
             </tr>
@@ -29,7 +29,7 @@ else
                 <tr>
                     <td>@project.Index</td>
                     <td>@project.Title</td>
-                    <td>@project.View</td>
+                    <td><a href="@project.Link" target='_blank'>Click here</a></td>
                     <td>@project.Description</td>
                     <td>@project.Date.ToShortDateString()</td>
                 </tr>
@@ -54,7 +54,7 @@ else
 
         public string? Description { get; set; }
 
-        public string? View { get; set; }
+        public string? Link { get; set; }
         
         public DateTime Date { get; set; }
     }
