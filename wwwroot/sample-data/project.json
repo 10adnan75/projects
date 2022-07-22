@@ -2,35 +2,35 @@
   {
     "index": 1,
     "title": "first project",
-    "view": "<a href='https://github.com/10adnan75/CSharpDotNet/edit/main/wwwroot/sample-data/project.json' target='_blank'>Click here</a>",
+    "link": "https://github.com/10adnan75/CSharpDotNet/edit/main/wwwroot/sample-data/project.json",
     "description": "This is my first project.",
     "date": "2018-05-06"
   },
   {
     "index": 2,
     "title": "second project",
-    "view": "Click here",
+    "link": "Click here",
     "description": "This is my second project.",
     "date": "2018-05-06"
   },
   {
     "index": 3,
     "title": "third project",
-    "view": "Click here",
+    "link": "Click here",
     "description": "This is my third project.",
     "date": "2018-05-06"
   },
   {
     "index": 4,
     "title": "fourth project",
-    "view": "Click here",
+    "link": "Click here",
     "description": "This is my fourth project.",
     "date": "2018-05-06"
   },
   {
     "index": 5,
     "title": "fifth project",
-    "view": "Click here",
+    "link": "Click here",
     "description": "This is my fifth project.",
     "date": "2018-05-06"
   }
