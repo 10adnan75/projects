@@ -2,11 +2,11 @@
 @inject HttpClient Http
 
 <PageTitle>My Projects</PageTitle>
-
+<br>
 <h2>CS projects on: Data Structures, Algorithms, Object Oriented Programming and Machine Learning</h2>
-
+<br>
 <p>&#64;author: 10adnan75</p>
-
+<br>
 @if (myprojects == null)
 {
     <p><em>Loading...</em></p>
@@ -38,7 +38,8 @@ else
     </table>
 }
 
-@code {
+@code 
+{
     private Project[]? myprojects;
 
     protected override async Task OnInitializedAsync()
@@ -49,13 +50,9 @@ else
     public class Project
     {
         public int Index { get; set; }
-
         public string? Title { get; set; }
-
         public string? Description { get; set; }
-
         public string? Link { get; set; }
-        
         public DateTime Date { get; set; }
     }
 }
