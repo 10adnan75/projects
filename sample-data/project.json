@@ -1,27 +1,43 @@
 [
+
+    {    
+        "index": 1,
+        "title": "Sorting Visualizer",
+        "link": "https://10adnan75.github.io/sorting-visualizer/",
+        "description": "A web-based sorting algorithm visualization tool",
+        "date": "2019-07-08"
+    },
+
+    {
+        "index": 2,
+        "title": "Snake Game",
+        "link": "https://10adnan75.github.io/snake/",
+        "description": "Classic snake game hosted on Github",
+        "date": "2020-05-02"
+    },  
+
+    {
+        "index": 3,
+        "title": "Tic Tac Toe",
+        "link": "https://10adnan75.github.io/tic-tac-toe/",
+        "description": "A multiplayer game built in javascript",
+        "date": "2020-10-12"
+    },
   
-  {
-    "index": 1,
-    "title": "Tic Tac Toe",
-    "link": "https://10adnan75.github.io/tic-tac-toe/",
-    "description": "A multiplayer game built in javascript",
-    "date": "2020-05-02"
-  },
-  
-  {
-    "index": 2,
-    "title": "Snake Game",
-    "link": "https://10adnan75.github.io/snake/",
-    "description": "Classic snake game hosted on Github",
-    "date": "2020-10-12"
-  },
-  
-  {
-    "index": 3,
-    "title": "Speed Typing Test",
-    "link": "https://10adnan75.github.io/speed-typing-test/",
-    "description": "An accurate assessment of your wpm",
-    "date": "2022-22-11"
-  }
-  
+    {
+        "index": 4,
+        "title": "Fake News Detection",
+        "link": "https://10adnan75.github.io/Fake-news-detection/",
+        "description": "Machine Learning project using scikit-learn",
+        "date": "2021-08-07"
+    },
+
+    {
+        "index": 5,
+        "title": "Speed Typing Test",
+        "link": "https://10adnan75.github.io/speed-typing-test/",
+        "description": "An accurate assessment of your wpm",
+        "date": "2022-22-11"
+    }
+
 ]
