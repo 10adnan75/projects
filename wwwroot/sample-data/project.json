@@ -1,14 +1,6 @@
 [
   
   {
-    "index": 1,
-    "title": "Sorting Visualizer",
-    "link": "https://10adnan75.github.io/sorting-visualizer/",
-    "description": "A web-based sorting algorithm visualization tool",
-    "date": "2019-07-08"
-  },
-  
-  {
     "index": 2,
     "title": "Tic Tac Toe",
     "link": "https://10adnan75.github.io/tic-tac-toe/",
@@ -38,6 +30,14 @@
     "link": "https://10adnan75.github.io/speed-typing-test/",
     "description": "An accurate assessment of your wpm",
     "date": "2022-22-11"
+  },
+  
+  {
+    "index": 1,
+    "title": "Sorting Visualizer",
+    "link": "https://10adnan75.github.io/sorting-visualizer/",
+    "description": "A web-based sorting algorithm visualization tool",
+    "date": "2019-07-08"
   }
   
 ]
