@@ -1,18 +1,20 @@
 [
-    {
+     {
         "index": 1,
-        "title": "Tic Tac Toe",
-        "link": "https://10adnan75.github.io/tic-tac-toe/",
-        "description": "A multiplayer game built in javascript",
-        "date": "2019-07-08"
+        "title": "Undergrad Thesis",
+        "link": "https://github.com/10adnan75/undergraduate-thesis/",
+        "description": "Machine Learning to Predict Fake Product Reviews on Amazon",
+        "date": "2022-01-01"
     },
+    
     {
         "index": 2,
-        "title": "Snake.io",
-        "link": "https://10adnan75.github.io/snake/",
-        "description": "Classic snake game hosted on Github",
-        "date": "2020-05-02"
+        "title": "Sorting Visualizer",
+        "link": "https://10adnan75.github.io/sorting-visualizer/",
+        "description": "A web-based sorting algorithm visualization tool built in JavaScript",
+        "date": "2021-07-08"
     },
+    
     {
         "index": 3,
         "title": "Typing Speed Test",
@@ -20,32 +22,12 @@
         "description": "An accurate assessment of your WPM",
         "date": "2020-10-12"
     },
+    
     {
         "index": 4,
-        "title": "a",
-        "link": "here",
-        "description": "A",
-        "date": "2020-01-01"
-    },
-    {
-        "index": 5,
-        "title": "a",
-        "link": "here",
-        "description": "A",
-        "date": "2020-01-01"
-    },
-    {
-        "index": 6,
-        "title": "a",
-        "link": "here",
-        "description": "A",
-        "date": "2020-01-01"
-    },
-    {
-        "index": 7,
-        "title": "a",
-        "link": "here",
-        "description": "A",
-        "date": "2020-01-01"
+        "title": "Personal Website",
+        "link": "https://10adnan75.github.io/",
+        "description": "Static web-page designed in Flask framework and Bootstrap.",
+        "date": "2019-05-02"
     }
 ]
