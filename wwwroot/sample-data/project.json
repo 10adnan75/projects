@@ -1,6 +1,30 @@
 [
      {
         "index": 1,
+        "title": "Bug Tracker",
+        "link": "https://bug-tracker-10adnan75.onrender.com/",
+        "description": "MERN stack, RESTful API, customizable workflows; Backend tested with Postman.",
+        "date": "2025-05-02"
+    },
+     
+     {
+        "index": 2,
+        "title": "Remote Dictionary Server",
+        "link": "https://github.com/10adnan75/redis/",
+        "description": "Rebuilt Redis in-memory database from scratch using Java with custom extensions and enhanced features",
+        "date": "2024-10-12"
+    },
+     
+     {
+        "index": 3,
+        "title": "Wellness Score AI",
+        "link": "https://github.com/10adnan75/wellness-score/",
+        "description": "An AI-powered wellness score calculator that quantifies health status based on user data",
+        "date": "2023-31-01"
+    },
+     
+     {
+        "index": 4,
         "title": "Undergrad Thesis",
         "link": "https://github.com/10adnan75/undergraduate-thesis/",
         "description": "Machine Learning to Predict Fake Product Reviews on Amazon",
@@ -8,7 +32,7 @@
     },
     
     {
-        "index": 2,
+        "index": 5,
         "title": "Sorting Visualizer",
         "link": "https://10adnan75.github.io/sorting-visualizer/",
         "description": "A web-based sorting algorithm visualization tool built in JavaScript",
@@ -16,7 +40,7 @@
     },
     
     {
-        "index": 3,
+        "index": 6,
         "title": "Typing Speed Test",
         "link": "https://10adnan75.github.io/speed-typing-test/",
         "description": "An accurate assessment of your WPM",
@@ -24,10 +48,10 @@
     },
     
     {
-        "index": 4,
+        "index": 7,
         "title": "Personal Website",
         "link": "https://10adnan75.github.io/",
-        "description": "Static web-page designed in Flask framework and Bootstrap.",
+        "description": "Static web-page designed in Flask framework and Bootstrap",
         "date": "2019-05-02"
     }
 ]
