@@ -3,7 +3,7 @@
         "index": 1,
         "title": "Bug Tracker",
         "link": "https://bug-tracker-10adnan75.onrender.com/",
-        "description": "MERN stack, RESTful API, customizable workflows; Backend tested with Postman.",
+        "description": "A MERN-stack web-service offering RESTful API architecture, customizable workflows, and a Postman-tested backend for reliability",
         "date": "2025-05-02"
     },
      
@@ -11,7 +11,7 @@
         "index": 2,
         "title": "Remote Dictionary Server",
         "link": "https://github.com/10adnan75/redis/",
-        "description": "Rebuilt Redis in-memory database from scratch using Java with custom extensions and enhanced features",
+        "description": "A Redis in-memory database from scratch using Java with custom extensions and enhanced features",
         "date": "2024-10-12"
     },
      
@@ -27,7 +27,7 @@
         "index": 4,
         "title": "Undergrad Thesis",
         "link": "https://github.com/10adnan75/undergraduate-thesis/",
-        "description": "Machine Learning to Predict Fake Product Reviews on Amazon",
+        "description": "A Machine Learning model engineered in Python to predict fake product reviews on Amazon",
         "date": "2022-01-01"
     },
     
@@ -43,7 +43,7 @@
         "index": 6,
         "title": "Typing Speed Test",
         "link": "https://10adnan75.github.io/speed-typing-test/",
-        "description": "An accurate assessment of your WPM",
+        "description": "A canvas crafted in JavaScript to assess words-per-minute (WPM)",
         "date": "2020-10-12"
     },
     
@@ -51,7 +51,7 @@
         "index": 7,
         "title": "Personal Website",
         "link": "https://10adnan75.github.io/",
-        "description": "Static web-page designed in Flask framework and Bootstrap",
+        "description": "A static web-page designed in HTML, CSS, JavaScript, and Bootstrap",
         "date": "2019-05-02"
     }
 ]
