@@ -49,10 +49,19 @@ else
 
     public class Project
     {
+        [JsonPropertyName("index")]
         public int Index { get; set; }
+    
+        [JsonPropertyName("title")]
         public string? Title { get; set; }
+    
+        [JsonPropertyName("description")]
         public string? Description { get; set; }
+    
+        [JsonPropertyName("link")]
         public string? Link { get; set; }
+    
+        [JsonPropertyName("date")]
         public DateTime Date { get; set; }
     }
 }
