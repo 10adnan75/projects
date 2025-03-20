@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Microsoft.AspNetCore.Components.dll": "sha256-akphxmJLHT1BVk+0QfPRrRvEce1uh1lxCBUMdEg5A3c=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-PdYKNU3JFUSCwZkUC2EvjucmTjwE3xrGoa+SvpFmvWs=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-DgyKC\/RqDLcGe2zNANSp2uu37yoSq+S8YXUe9ZT6GKw=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Og2FhYYygJ8y60fguXMO6CBtfINSbXS\/dR0H0vFheKw=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-zhFtW4kE16TdrpPne9I1Cu9o0KYzrS50VE9MVSifJg4=",
       "Microsoft.Extensions.Configuration.dll": "sha256-QPR+1IXNcA28b\/gXw3uZ8aRigHIZUJ1KWSH02kkCg7Q=",
@@ -21,7 +21,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-YColTWA58whC+8aBjv1O7HgsyYrbHTba601EkNDWAlo=",
       "Microsoft.JSInterop.dll": "sha256-crMUEozaDbgkBR2kMfbHSfRwF6B9iobeDuCOyOTWJq4=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-s2xsgdYKLwwiBtdxUf7w3xifWex\/saizGRq96DOIMF8=",
-      "Projects.dll": "sha256-EQgBbYLBuArP8L+kjY44kHc4+Bs5lQTVjTQw5Vk5IFM=",
+      "Projects.dll": "sha256-+ZLBFB9FvDacQGp6s2HVExynuz6kvMqOrmHIsWFpXd4=",
       "System.Collections.Concurrent.dll": "sha256-ZoTknMQdjeVkJIgG3ythn+PYiqRKWYWzXsF7SfQ+BXc=",
       "System.Collections.dll": "sha256-kNODph2BbTyFKC4qUdIfaNx76fFN8nAods35BOfChtc=",
       "System.ComponentModel.dll": "sha256-NT26TVIOw6H4IVm61vfKvg922vBHU7A5mGYW194SBCA=",
