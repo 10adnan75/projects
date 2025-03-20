@@ -46,7 +46,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        myprojects = await Http.GetFromJsonAsync<Project[]>("sample-data/project.json");
+        myprojects = await Http.GetFromJsonAsync<Project[]>("https://10adnan75.github.io/sample-data/project.json");
     }
 
     public class Project
