@@ -4,7 +4,7 @@
         "title": "DNS Server",
         "link": "https://github.com/10adnan75/dns-server/",
         "description": "A Domain Name System resolver that handles various record types; capable of parsing, creating, and responding to DNS queries",
-        "date": "2025-20-03"
+        "date": "2025-03-20"
     },
      
      {
@@ -12,7 +12,7 @@
         "title": "Bug Tracker",
         "link": "https://bug-tracker-10adnan75.onrender.com/",
         "description": "A MERN-stack web-service offering RESTful API architecture, customizable workflows, and a Postman-tested backend for reliability",
-        "date": "2025-05-02"
+        "date": "2025-02-05"
     },
      
      {
@@ -20,7 +20,7 @@
         "title": "Remote Dictionary Server",
         "link": "https://github.com/10adnan75/redis/",
         "description": "A Redis in-memory database from scratch using Java with custom extensions and enhanced features",
-        "date": "2024-10-12"
+        "date": "2024-12-10"
     },
      
      {
@@ -44,7 +44,7 @@
         "title": "Sorting Visualizer",
         "link": "https://10adnan75.github.io/sorting-visualizer/",
         "description": "A web-based sorting algorithm visualization tool built in JavaScript",
-        "date": "2021-07-08"
+        "date": "2021-08-07"
     },
     
     {
@@ -52,7 +52,7 @@
         "title": "Typing Speed Test",
         "link": "https://10adnan75.github.io/speed-typing-test/",
         "description": "A canvas crafted in JavaScript to assess words-per-minute (WPM)",
-        "date": "2020-10-12"
+        "date": "2020-12-10"
     },
     
     {
@@ -60,6 +60,6 @@
         "title": "Personal Website",
         "link": "https://10adnan75.github.io/",
         "description": "A static web-page designed in HTML, CSS, JavaScript, and Bootstrap",
-        "date": "2019-05-02"
+        "date": "2019-02-05"
     }
 ]
