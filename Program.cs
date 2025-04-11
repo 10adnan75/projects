@@ -7,6 +7,6 @@ builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services.AddScoped(sp =>
-    new HttpClient { BaseAddress = new Uri("https://10adnan75.github.io/Projects/") });
+    new HttpClient { BaseAddress = new Uri("https://10adnan75.github.io/projects/") });
 
 await builder.Build().RunAsync();
