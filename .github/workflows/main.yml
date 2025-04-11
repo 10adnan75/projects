@@ -24,8 +24,8 @@ jobs:
     - name: Publish .NET Core Project
       run: dotnet publish Projects.csproj -c Release -o release --nologo
     
-    - name: Change base-tag in index.html from / to Projects
-      run: sed -i 's/<base href="\/" \/>/<base href="\/Projects\/" \/>/g' release/wwwroot/index.html
+    - name: Change base-tag in index.html from / to projects
+      run: sed -i 's/<base href="\/" \/>/<base href="\/projects\/" \/>/g' release/wwwroot/index.html
     
     - name: copy index.html to 404.html
       run: cp release/wwwroot/index.html release/wwwroot/404.html
