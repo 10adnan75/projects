@@ -1,14 +1,30 @@
 [
      {
         "index": 1,
-        "title": "DNS Server",
-        "link": "https://github.com/10adnan75/dns-server/",
-        "description": "A Domain Name System resolver that handles various record types; capable of parsing, creating, and responding to DNS queries",
-        "date": "2025-03-20"
+        "title": "HTTP Server",
+        "link": "https://github.com/10adnan75/http-server/",
+        "description": "An HTTP server from scratch using TCP primitives, handling GET/POST requests, serving files, and managing concurrent connections",
+        "date": "2025-04-30"
     },
      
      {
         "index": 2,
+        "title": "DuckDB Extension: Polynomial Learned Indexing",
+        "link": "https://github.com/10adnan75/poly-learned-index/",
+        "description": "An extension to DuckDB implementing polynomial learned indexing via Microsoft's ALEX framework, using ML to boost query performance",
+        "date": "2025-04-22"
+    },
+     
+     {
+        "index": 3,
+        "title": "DNS Server",
+        "link": "https://github.com/10adnan75/dns-server/",
+        "description": "A Domain Name System resolver that handles various record types; capable of parsing, creating, and responding to DNS queries",
+        "date": "2025-03-01"
+    },
+     
+     {
+        "index": 4,
         "title": "Bug Tracker",
         "link": "https://bug-tracker-10adnan75.onrender.com/",
         "description": "A MERN-stack web-service offering RESTful API architecture, customizable workflows, and a Postman-tested backend for reliability",
@@ -16,7 +32,7 @@
     },
      
      {
-        "index": 3,
+        "index": 5,
         "title": "Remote Dictionary Server",
         "link": "https://github.com/10adnan75/redis/",
         "description": "A Redis in-memory database from scratch using Java with custom extensions and enhanced features",
@@ -24,7 +40,7 @@
     },
      
      {
-        "index": 4,
+        "index": 6,
         "title": "Wellness Score AI",
         "link": "https://github.com/10adnan75/wellness-score/",
         "description": "An AI-powered wellness score calculator that quantifies health status based on user data",
@@ -32,7 +48,7 @@
     },
      
      {
-        "index": 5,
+        "index": 7,
         "title": "Undergrad Thesis",
         "link": "https://github.com/10adnan75/undergraduate-thesis/",
         "description": "A Machine Learning model engineered in Python to predict fake product reviews on Amazon",
@@ -40,7 +56,7 @@
     },
     
     {
-        "index": 6,
+        "index": 8,
         "title": "Sorting Visualizer",
         "link": "https://10adnan75.github.io/sorting-visualizer/",
         "description": "A web-based sorting algorithm visualization tool built in JavaScript",
@@ -48,7 +64,7 @@
     },
     
     {
-        "index": 7,
+        "index": 9,
         "title": "Typing Speed Test",
         "link": "https://10adnan75.github.io/speed-typing-test/",
         "description": "A canvas crafted in JavaScript to assess words-per-minute (WPM)",
@@ -56,7 +72,7 @@
     },
     
     {
-        "index": 8,
+        "index": 10,
         "title": "Personal Website",
         "link": "https://10adnan75.github.io/",
         "description": "A static web-page designed in HTML, CSS, JavaScript, and Bootstrap",
