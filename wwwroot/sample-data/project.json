@@ -9,9 +9,9 @@
      
      {
         "index": 2,
-        "title": "DuckDB Extension: Polynomial Learned Indexing",
+        "title": "DuckDB: Learned Indexing",
         "link": "https://github.com/10adnan75/poly-learned-index/",
-        "description": "An extension to DuckDB implementing polynomial learned indexing via Microsoft's ALEX framework, using ML to boost query performance",
+        "description": "A DuckDB extension implementing polynomial learned indexing via Microsoft's ALEX framework, using ML to boost query performance",
         "date": "2025-04-22"
     },
      
